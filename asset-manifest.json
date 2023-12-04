@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-study/static/css/main.083ebfb3.css",
+    "main.js": "/react-study/static/js/main.927614fb.js",
+    "static/js/787.227b7bd9.chunk.js": "/react-study/static/js/787.227b7bd9.chunk.js",
+    "static/media/lck-welcome.jpg": "/react-study/static/media/lck-welcome.4824d220d0049a8762c8.jpg",
+    "static/media/Liiv-Logo.png": "/react-study/static/media/Liiv-Logo.d9b95a35823644070b48.png",
+    "static/media/LCK-Logo.png": "/react-study/static/media/LCK-Logo.e0b72c5e7754ddf92fc7.png",
+    "static/media/Redforce-Logo.png": "/react-study/static/media/Redforce-Logo.e7059aa9f297249104ab.png",
+    "static/media/Freecs-Logo.png": "/react-study/static/media/Freecs-Logo.0682c18d067a32a120f6.png",
+    "static/media/Brion-Logo.png": "/react-study/static/media/Brion-Logo.2bf3e15630ee5ec6dbb6.png",
+    "static/media/KT-logo.png": "/react-study/static/media/KT-logo.e490e6dd18ddf07d672a.png",
+    "static/media/HLE-Logo.png": "/react-study/static/media/HLE-Logo.a448ba3c20350bf50097.png",
+    "static/media/Geng-Logo.png": "/react-study/static/media/Geng-Logo.e2a451b17f32ed9dc5ae.png",
+    "static/media/T1-logo.png": "/react-study/static/media/T1-logo.f339453e35b7cbf66ee2.png",
+    "static/media/DRX-Logo.png": "/react-study/static/media/DRX-Logo.0b4ba750acd1e3ad3216.png",
+    "index.html": "/react-study/index.html",
+    "main.083ebfb3.css.map": "/react-study/static/css/main.083ebfb3.css.map",
+    "main.927614fb.js.map": "/react-study/static/js/main.927614fb.js.map",
+    "787.227b7bd9.chunk.js.map": "/react-study/static/js/787.227b7bd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.083ebfb3.css",
+    "static/js/main.927614fb.js"
+  ]
+}
