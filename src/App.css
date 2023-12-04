@@ -36,3 +36,163 @@
     transform: rotate(360deg);
   }
 }
+
+
+.page-toc {
+  float: left;
+  width: 220px;
+  padding: 16 16px;
+  box-sizing: border-box;
+  line-height: 2em;
+  text-align: left;
+  background-color: white;
+  color: #f0383b;
+  border-right: 1px solid #f0383b;
+  border-radius: 4px;
+  list-style: none;
+  height: 100vh;
+}
+
+.no-dot
+{
+  list-style: none;
+}
+
+.custom-btn
+{
+  font-family:'Open Sans', sans-serif;
+  font-weight: bold;
+  src : url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+  background: #fa5a5a;
+  color: #ffffff;
+  margin: 5px;
+  border: 1px #cd4d22;
+}
+
+.page-body
+{
+  font-family:'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  src : url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+  white-space: pre-wrap;
+  background-color: white;
+}
+
+header
+{
+  font-family: 'Nova Square', sans-serif;
+  src: url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+  color: #000000;
+  text-align: left;
+  margin-left: 5em;
+  margin-bottom: 2em;
+  
+}
+
+.hdr 
+{
+  padding: 0px;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-bottom: 1px solid #f0383b;
+  box-sizing: border-box;
+}
+
+.title-logo
+{
+  width: 100px;
+  float: left;
+  margin-right: 20px;
+  margin-top: 5px;
+}
+
+.body-image
+{
+  width: 400px;
+  float: right;
+}
+
+.text-left-8em
+{
+  position:left;
+}
+
+.body-image-center
+{
+  width: 400px;
+  margin-right: 50px;
+}
+
+.A1Font
+{
+  font-family: 'Gothic A1', sans-serif;
+  src: url('https://fonts.googleapis.com/css2?family=Gothic+A1&display=swap');
+}
+
+a
+{
+  color : #000000;
+}
+
+a:visited
+{
+  color : #6454ed;
+}
+
+.Create
+{
+  height : 40em;
+  width : 70em;
+
+}
+
+.Create_Title
+{
+  height : 2em;
+  width : 70em;
+}
+
+.Right_Side
+{
+  float : right;
+  margin-right : 6em;
+  width : 100px;
+  height : 40px;
+  font-size: 17px;
+  font-family:'Open Sans', sans-serif;
+  font-weight: bold;
+  src : url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+  background: #fa5a5a;
+  color: #ffffff;
+  border: 1px #cd4d22;
+}
+
+.left_btn
+{
+  float:left
+}
+
+ctr
+{
+position:relative;
+float:right;
+margin-right:50px;
+}
+
+.right_btn
+{
+  float:right;
+  height:50%
+}
+
+.right_margin
+{
+  margin-right: 1em;
+}
+
+.btn30-24
+{
+  width:68px;
+  height:24px;
+}
